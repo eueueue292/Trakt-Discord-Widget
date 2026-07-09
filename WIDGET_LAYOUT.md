@@ -36,3 +36,5 @@ Hero Image: Image > whatever image you like (again, i used trakt icon png)
 
 # Content
 Stat: Text > Custom String > Content: Trakt Status | Icon: Application Asset > whatever image you like (used trakt icon png)
+
+# After doing allat, now publish the widget top right. after that go to ur discord profile > Board > click on "Add Widget" you should see your trakt widget, add it to  your profile. 
