@@ -1,0 +1,11 @@
+{
+  "BOT_TOKEN": "",
+  "APPLICATION_ID": "",
+  "DISCORD_USER_ID": "",
+
+  "TRAKT_CLIENT_ID": "",
+  "TRAKT_CLIENT_SECRET": "",
+  "TRAKT_ACCESS_TOKEN": "",
+
+  "TMDB_API_KEY": ""
+}
