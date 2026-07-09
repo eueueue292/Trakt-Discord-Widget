@@ -13,8 +13,11 @@ Subtitle 2: > Text > User Data > put in Data Field = latest_Genres
 
 # Content
 Item #1 Image: User Data > episode_Thumbnail | Name > Custom String > Last Episode | Description > User Data > episode_Show
+
 Item #2 Image: User Data > movie_Poster | Name > Custom String > Last movie | Description > User Data > movie_Title
+
 Item #3 Image: User Data > latest_Poster | Name > Custom String > Latest Activity | Description > User Data > latest_Title
+
 Item #4 Image: Appilcation Asset > put any image you like for rating (im using ios star png) | Name > Custom String > TMDB Rating | Description > User Data > latest_Rating
 
 # Add Widget Preview ( Hero Design)
