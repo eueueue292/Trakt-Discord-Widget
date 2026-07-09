@@ -40,4 +40,4 @@ Hero Image: Image > whatever image you like (again, i used trakt icon png)
 # Content
 Stat: Text > Custom String > Content: Trakt Status | Icon: Application Asset > whatever image you like (used trakt icon png)
 
-# After doing allat, now publish the widget top right. after that go to ur discord profile > Board > click on "Add Widget" you should see your trakt widget, add it to  your profile. 
+# After doing allat, now publish the widget top right. after that go to ur discord profile > Board > click on "Add Widget" you should see your trakt widget, add it to  your profile.  if youre getting  "This Widget is still syncing!" text  go to here and youll see a fix https://discord.com/channels/603970300668805120/1520804143764078783/1520804143764078783
