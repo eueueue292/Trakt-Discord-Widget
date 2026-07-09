@@ -2,7 +2,7 @@
 
 A custom Discord Widget that automatically displays your latest Trakt activity on your Discord profile.
 
-![Preview](preview.png)
+![Preview](preview.PNG)
 
 ##  Features
 
