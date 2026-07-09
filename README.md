@@ -73,6 +73,8 @@ Automatically update every minute:
 node upload-widget-loop.js
 ```
 
+Note: Trakt may occasionally return an HTML/Cloudflare page instead of JSON. If this happens, increase the update interval to 5–10 minutes and restart the script. A 1-minute interval may be too aggressive for some users/networks.
+
 ##  Widget
 
 Displays:
