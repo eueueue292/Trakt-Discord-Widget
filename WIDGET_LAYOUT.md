@@ -29,6 +29,7 @@ Hero Image: Image > Application Asset > whatever image you like (i used trakt ic
 
 # Content
 Stat: Label ON > Text > Custom String > Content: Trakt | Text > Custom String > Content: Stats
+
 Hero Image: Image > whatever image you like (again, i used trakt icon png)
 
 # Activity Accessory ( Stat Design )
