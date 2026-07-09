@@ -1,3 +1,6 @@
+Follow this guide first on how to create your widget 
+https://chloecinders.com/blog/discord-widgets#creating-the-widget-config
+
 # Widget Top ( Hero Design )
 
 # Content 
