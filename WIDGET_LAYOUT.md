@@ -2,8 +2,11 @@
 
 # Content 
 Image: User data > put in Data Field = latest_Poster
+
 Title: Text > User Data > put in Data Field = latest_Title
+
 Subtitle 1: > Text > User Data > put in Data Field = latest_Subtitle
+
 Subtitle 2: > Text > User Data > put in Data Field = latest_Genres
 
 # Widget Bottom ( Collection Design )
